@@ -1,5 +1,4 @@
-![Calculator Icon](assets/calculator_icon.png)
-# 🖩 CaculatorApp
+# 🧮 CaculatorApp
 
 ## Giới thiệu
 **CaculatorApp** là ứng dụng máy tính bỏ túi đơn giản viết bằng **C#** với giao diện WinForms. Mục đích của dự án là luyện kỹ năng UI + xử lý logic phép tính, thích hợp cho người mới bắt đầu.
@@ -32,5 +31,6 @@
 1. Clone repo về máy:
    ```bash
    git clone https://github.com/qngocc/CaculatorApp.git
+
 
 

@@ -21,8 +21,8 @@
 - Giao diện có các nút số (0–9)
 - Nút phép tính: +, −, ×, ÷
 - Nút `=` để tính kết quả
-- Nút `C` (Clear) để xóa màn hình
-- Hiển thị kết quả/nhập liệu ngay trên màn hình (Label hoặc TextBox theo setup)
+- Nút `AC` (Clear) để xóa màn hình
+- Hiển thị kết quả/nhập liệu ngay trên màn hình (Label)
 
 ---
 
@@ -31,6 +31,7 @@
 1. Clone repo về máy:
    ```bash
    git clone https://github.com/qngocc/CaculatorApp.git
+
 
 
 

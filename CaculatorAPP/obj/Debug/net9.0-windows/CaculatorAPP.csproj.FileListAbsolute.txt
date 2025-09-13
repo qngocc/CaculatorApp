@@ -1,0 +1,16 @@
+E:\Project C#\CaculatorAPP\CaculatorAPP\bin\Debug\net9.0-windows\CaculatorAPP.exe
+E:\Project C#\CaculatorAPP\CaculatorAPP\bin\Debug\net9.0-windows\CaculatorAPP.deps.json
+E:\Project C#\CaculatorAPP\CaculatorAPP\bin\Debug\net9.0-windows\CaculatorAPP.runtimeconfig.json
+E:\Project C#\CaculatorAPP\CaculatorAPP\bin\Debug\net9.0-windows\CaculatorAPP.dll
+E:\Project C#\CaculatorAPP\CaculatorAPP\bin\Debug\net9.0-windows\CaculatorAPP.pdb
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.Form1.resources
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.csproj.GenerateResource.cache
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.AssemblyInfoInputs.cache
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.AssemblyInfo.cs
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.csproj.CoreCompileInputs.cache
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.dll
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\refint\CaculatorAPP.dll
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.pdb
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\CaculatorAPP.genruntimeconfig.cache
+E:\Project C#\CaculatorAPP\CaculatorAPP\obj\Debug\net9.0-windows\ref\CaculatorAPP.dll

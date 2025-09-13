@@ -1,3 +1,4 @@
+![Calculator Icon](assets/calculator_icon.png)
 # 🖩 CaculatorApp
 
 ## Giới thiệu
@@ -31,4 +32,5 @@
 1. Clone repo về máy:
    ```bash
    git clone https://github.com/qngocc/CaculatorApp.git
+
 
